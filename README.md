@@ -2,5 +2,5 @@
 
 ## referensi dari https://awamelvine.gumroad.com/
 
-[Lihat Demo](https://anjastabuni.github.io/my-blog-V/index.html)
+[halaman index](https://anjastabuni.github.io/my-blog-V/index.html) <br />
 [single](https://anjastabuni.github.io/my-blog-VI/single.html)
